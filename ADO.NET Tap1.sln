@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET Tap1", "ADO.NET Tap1\ADO.NET Tap1.csproj", "{9B39E3E7-DFB3-4434-B976-926B51E5C906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B39E3E7-DFB3-4434-B976-926B51E5C906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B39E3E7-DFB3-4434-B976-926B51E5C906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B39E3E7-DFB3-4434-B976-926B51E5C906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B39E3E7-DFB3-4434-B976-926B51E5C906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B14EB555-5CFE-43C8-8BC3-112C01D1A642}
+	EndGlobalSection
+EndGlobal
